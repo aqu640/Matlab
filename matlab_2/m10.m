@@ -1,0 +1,5 @@
+fprintf('The result is 3.256.\n')
+fprintf('It is not mine.\n')
+fprintf('35%% students are failed.\n')
+fprintf('This is a back slash\\.\n')
+fprintf(' I love Matlab 2007.\n')

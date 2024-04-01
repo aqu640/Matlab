@@ -1,0 +1,9 @@
+char(65:90) 
+
+fprintf(char(65:90))
+
+ans =
+
+    'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
+
+ABCDEFGHIJKLMNOPQRSTUVWXYZ>>
